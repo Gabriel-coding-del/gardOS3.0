@@ -1,4 +1,4 @@
-# gardOS version 3.0 generic.
+# gardOS Arcane Edition.
 about this project:
 16 bit operating system made by Gabriel sîrbu.
 things needed to try gardOS out:
