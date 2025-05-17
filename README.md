@@ -1,6 +1,6 @@
-# gardOS version 3.0 generic
+# gardOS version 3.0 generic.
 about this project:
-16 bit operating system made by Gabriel sîrbu
+16 bit operating system made by Gabriel sîrbu.
 things needed to try gardOS out:
 use nasm to assmble this project by running „sudo apt install nasm” to install nasm
 also install QEMU emulator to test this OS out
