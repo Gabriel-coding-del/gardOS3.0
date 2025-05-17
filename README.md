@@ -3,7 +3,7 @@ about this project:
 16 bit operating system made by Gabriel sîrbu.
 things needed to try gardOS out:
 use nasm to assmble this project by running „sudo apt install nasm” to install nasm
-also install QEMU emulator to test this OS out
+also install QEMU emulator to test this OS out.
 if you don't have QEMU but have an secondary computer (BIOS, not UEFI!) you can test on it. but if the secondary computer runs UEFI you can unable CSM to run gardOS
 to test out in secondary computer folow these steps:
 1. get Rufus (Windows) or Balena etcher (Linux)
